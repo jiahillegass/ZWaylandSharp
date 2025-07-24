@@ -1,4 +1,4 @@
-# WaylandSharp
+# ZWaylandSharp
 
 An incremental source generator to automatically create bindings to Wayland
 using given protocol xml files.
@@ -14,9 +14,9 @@ using given protocol xml files.
 
 ## Getting started
 
-Install WaylandSharp nuget package.
+Install ZWaylandSharp nuget package.
 ```sh
-dotnet add package WaylandSharp
+dotnet add package ZWaylandSharp
 ```
 
 Grab `wayland.xml` from [freedesktop.org](https://gitlab.freedesktop.org/wayland/wayland/-/blob/main/protocol/wayland.xml). Drop the file into your project.
